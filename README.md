@@ -22,6 +22,7 @@ Skills: Javascript/Phaser, C++, C#, Python, Unity & Adobe Creative Cloud
 
 - ⚡ Fun fact: Big fan of the company which created the character you can see in my banner! Take a guess :)  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoryanSadi&hide=contribs,prs)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](「Philemon」¥#4828)  
 
