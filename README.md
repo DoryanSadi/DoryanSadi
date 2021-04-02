@@ -6,15 +6,15 @@ Hey there! My name is Doryan, from the United Kingdom, England! My hobbies inclu
 
 Skills: Javascript/Phaser, C++, C#, Python, Unity & Adobe Creative Cloud
 
-- 🔭 I’m currently working on Creating my website: DoryansDen 
+- 🔭 I’m currently working on... : Creating my website: DoryansDen 
 
-- 🌱 I’m currently learning Python, C++: Frameworks and Fundamentals 
+- 🌱 I’m currently learning... : Python, C++: Frameworks and Fundamentals 
 
-- 👯 I’m looking to collaborate on Any game projects! Open to ideas 
+- 👯 I’m looking to collaborate on.. : Any game projects! Open to ideas 
 
-- 🤔 I’m looking for help with Boosting my coding knowledge! Looking for feedback :)  
+- 🤔 I’m looking for help with... : Boosting my coding knowledge! Looking for feedback :)  
 
-- 💬 Ask me about Hobbies! I'd love to get to know you more :)  
+- 💬 Ask me about... : Hobbies! I'd love to get to know you more :)  
 
 - 📫 How to reach me: Reach me through contact details provided on my page.  
 
