@@ -8,7 +8,7 @@ Skills: Javascript/Phaser, C++, C#, Python, Unity & Adobe Creative Cloud
 
 - 🔭 I’m currently working on... : Creating my website: DoryansDen 
 
-- 🌱 I’m currently learning... : Python, C++: Frameworks and Fundamentals 
+- 🌱 I’m currently learning... : C# Masterclass 
 
 - 👯 I’m looking to collaborate on.. : Any game projects! Open to ideas 
 
