@@ -20,7 +20,7 @@ Skills: Javascript/Phaser, C++, C#, Python, Unity & Adobe Creative Cloud
 
 - 😄 Pronouns: He/Him  
 
-- ⚡ Fun fact: Big fan of the company which created the character you can see in my banner! Take a guess :)  
+- ⚡ Fun fact: Big fan of the company which created the characters you can see in my banner! Take a guess :)  
 
 ## Socials! 
 
