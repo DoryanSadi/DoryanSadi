@@ -29,5 +29,5 @@ Skills: Javascript/Phaser, C++, C#, Python, Unity & Adobe Creative Cloud
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoryanSadi&hide=contribs,prs)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](「Philemon」¥#4828)  
+
 
