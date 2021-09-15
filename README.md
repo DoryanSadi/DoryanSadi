@@ -6,9 +6,9 @@ Hey there! My name is Doryan, from the United Kingdom, England! My hobbies inclu
 
 Skills: Javascript/Phaser, C++, C#, Python, Unity & Adobe Creative Cloud
 
-- 🔭 I’m currently working on... : Creating my website: DoryansDen 
+- 🔭 I’m currently working on... : First professional project: Breaching Shadows! 
 
-- 🌱 I’m currently learning... : C# Masterclass 
+- 🌱 I’m currently learning... : C# Masterclass & Unreal Engine C++ Developer Udemy Course! 
 
 - 👯 I’m looking to collaborate on.. : Any game projects! Open to ideas 
 
@@ -21,6 +21,10 @@ Skills: Javascript/Phaser, C++, C#, Python, Unity & Adobe Creative Cloud
 - 😄 Pronouns: He/Him  
 
 - ⚡ Fun fact: Big fan of the company which created the character you can see in my banner! Take a guess :)  
+
+                 ~ Socials! ~
+- ArtStation: https://www.artstation.com/doryansadi
+- Instagram:  https://www.instagram.com/doryansden/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoryanSadi&hide=contribs,prs)
 
