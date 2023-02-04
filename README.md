@@ -1,6 +1,4 @@
 ### Hi there 👋, Hey there! Welcome to my GitHub! 
-#### *Games Development | Games Art / Concept Artist | Sprite Animation*
-![GitHub Banner](https://github.com/DoryanSadi/DoryanSadi/blob/main/Doryan.png)
 
 
 Skills: Javascript/Phaser, C++, C#, Python, Unity & Adobe Creative Cloud
