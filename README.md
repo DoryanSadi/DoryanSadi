@@ -1,7 +1,7 @@
 ### Hi there 👋, Hey there! Welcome to my GitHub! 
 
 
-Skills: Javascript/Phaser, C++, C#, Python, Unity & Adobe Creative Cloud
+Skills: Javascript/Phaser, C#, HTML/CSS, Unity & Adobe Creative Cloud
 
 - 🔭 I’m currently working on... : First professional project: Breaching Shadows! 
 
